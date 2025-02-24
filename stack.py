@@ -16,7 +16,7 @@ class CircularStack:
         """Initialize the stack with an empty state."""
         pass
 
-    def push(self, temperature, humidity):
+    def push(self, distance):
         """Add a new Temperature object to the stack, replacing the oldest entry if full."""
         pass
 
