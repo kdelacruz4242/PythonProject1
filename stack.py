@@ -4,6 +4,7 @@ class Node:
     """
     def __init__(self, data):
         """Initialize a node with data and a pointer to the next node."""
+
         pass
 
 class CircularStack:
